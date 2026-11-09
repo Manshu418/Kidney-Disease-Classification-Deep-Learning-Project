@@ -6,8 +6,8 @@ from cnnClassifier import logger
 STAGE_NAME = "DataIngestionPipeline"
 
 class DataIngestionTrainingPipeline:
-    def __init__(self):
-        pass
+    def __init__(self, run_id: str | None = None):
+        self.run_id = run_id
 
     def main(self):
         try:
