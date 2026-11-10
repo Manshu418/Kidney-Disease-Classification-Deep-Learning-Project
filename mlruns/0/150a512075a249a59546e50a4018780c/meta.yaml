@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/150a512075a249a59546e50a4018780c/artifacts
+end_time: 1794295685344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 150a512075a249a59546e50a4018780c
+run_name: orderly-sloth-743
+run_uuid: 150a512075a249a59546e50a4018780c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794295655537
+status: 4
+tags: []
+user_id: mansh
