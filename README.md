@@ -1,3 +1,7 @@
+🌐 Live Application
+
+[Kidney Disease Classification – Open Application](http://15.252.97.128:8080/)
+
 ## Kidney-Disease-Classification-MLflow-DVC
 
 ## Workflows
